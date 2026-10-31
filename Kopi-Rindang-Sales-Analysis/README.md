@@ -108,16 +108,16 @@ Analisis mencakup beberapa aspek berikut:
 Dashboard terdiri dari empat halaman utama:
 
 1. **Overview** — Gambaran umum kinerja bisnis.
-   ![Overview](Power_B/IScreenshots/Overview.png)
+   ![Overview](Power_Bi/Screenshots/Overview.jpg)
 
 2. **Kinerja Cabang** — Analisis penjualan dan profitabilitas setiap cabang.
-   ![Cabang](Power_B/IScreenshots/Cabang.png)
+   ![Cabang](Power_Bi/Screenshots/Cabang.jpg)
 
 3. **Kinerja Produk** — Analisis performa produk dan kategori.
-   ![Produk](Power_B/IScreenshots/Produk.png)
+   ![Produk](Power_Bi/Screenshots/Produk.jpg)
 
 4. **Waktu & Pola Belanja** — Analisis tren transaksi dan pola pembelian pelanggan.
-   ![Waktu](Power_B/IScreenshots/Waktu_Pola_Belanja.png)
+   ![Waktu](Power_Bi/Screenshots/Waktu_Pola_Belanja.jpg)
 
 ---
 
