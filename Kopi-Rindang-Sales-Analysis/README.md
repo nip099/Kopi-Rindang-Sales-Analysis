@@ -117,7 +117,7 @@ Dashboard terdiri dari empat halaman utama:
    ![Produk](Power_Bi/Screeshots/Produk.jpg)
 
 4. **Waktu & Pola Belanja** — Analisis tren transaksi dan pola pembelian pelanggan.
-   ![Waktu](Power_Bi/Screeshots/Waktu_Pola_Belanja.jpg)
+   ![Waktu](Power_Bi/Screeshots/Waktu%20%26%20Pola%20Belanja.jpg)
 
 ---
 
